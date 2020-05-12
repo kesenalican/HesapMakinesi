@@ -1,0 +1,9 @@
+C:\Users\ALİCAN\Source\Repos\Hesapmak\Hesapmak\bin\Debug\Hesapmak.exe.config
+C:\Users\ALİCAN\Source\Repos\Hesapmak\Hesapmak\bin\Debug\Hesapmak.exe
+C:\Users\ALİCAN\Source\Repos\Hesapmak\Hesapmak\bin\Debug\Hesapmak.pdb
+C:\Users\ALİCAN\Source\Repos\Hesapmak\Hesapmak\obj\Debug\Hesapmak.csprojAssemblyReference.cache
+C:\Users\ALİCAN\Source\Repos\Hesapmak\Hesapmak\obj\Debug\Hesapmak.Form1.resources
+C:\Users\ALİCAN\Source\Repos\Hesapmak\Hesapmak\obj\Debug\Hesapmak.Properties.Resources.resources
+C:\Users\ALİCAN\Source\Repos\Hesapmak\Hesapmak\obj\Debug\Hesapmak.csproj.GenerateResource.cache
+C:\Users\ALİCAN\Source\Repos\Hesapmak\Hesapmak\obj\Debug\Hesapmak.exe
+C:\Users\ALİCAN\Source\Repos\Hesapmak\Hesapmak\obj\Debug\Hesapmak.pdb
